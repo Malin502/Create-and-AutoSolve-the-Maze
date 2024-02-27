@@ -12,7 +12,7 @@ sys.setrecursionlimit(1000000)
 mazesize = {"e":27, "n":51, "h":81, "vh":141, "g":201, "sg":301} #辞書型で迷路のサイズを管理
 
 
-dificulty= "h" #ここを書き換えてください（難易度）
+dificulty= "n" #ここを書き換えてください（難易度）
 
 
 maze_Width = mazesize[dificulty]
